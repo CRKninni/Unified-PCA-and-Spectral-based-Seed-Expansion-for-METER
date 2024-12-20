@@ -1,1 +1,1 @@
-# -Owner-avatar-Unified-PCA-and-Spectral-based-Seed-Expansion-for-METER
+unified-PCA-and-Spectral-based-Seed-Expansion-for-METER
