@@ -212,4 +212,4 @@ if __name__ == '__main__':
             print(f"QUESTION: {test_question}\nANSWER: {answer}")
 
     
-# python demo_vqa_ours.py with num_gpus=0 load_path="/home/pranav/ExplanableAI/METER-spectral-interpretability/meter_clip16_288_roberta_vqa.ckpt" test_only=True img="/home/pranav/ExplanableAI/CoCo/val2014/COCO_val2014_000000000488.jpg" question="What game is been played?"
+# python demo_vqa_ours.py with num_gpus=0 load_path="/home/charan/ExplanableAI/METER-spectral-interpretability/meter_clip16_288_roberta_vqa.ckpt" test_only=True img="/home/charan/ExplanableAI/CoCo/val2014/COCO_val2014_000000000488.jpg" question="What game is been played?"
