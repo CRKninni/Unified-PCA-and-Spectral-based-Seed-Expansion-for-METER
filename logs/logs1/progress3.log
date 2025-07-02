@@ -1,0 +1,7 @@
+Load 3303 data from split(s) valid.
+Load 3303 data from split(s) valid.
+running negative pert test for image modality with method 
+Final AUC: 82.17120155918872
+y values [84.94273691 84.85206479 84.15372691 83.22408719 82.81259764 82.30100515
+ 80.75803512 74.83438692 31.31988798]
+xvalues [0, 0.25, 0.5, 0.75, 0.8, 0.85, 0.9, 0.95, 1]

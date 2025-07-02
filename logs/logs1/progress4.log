@@ -1,0 +1,7 @@
+Load 3303 data from split(s) valid.
+Load 3303 data from split(s) valid.
+running negative pert test for text modality with method 
+Final AUC: 56.814148577051185
+y values [84.94273691 79.79904632 68.86344535 38.72726612 26.59866182 20.55018165
+  7.84801998  6.37762943  6.11475931]
+xvalues [0, 0.25, 0.5, 0.75, 0.8, 0.85, 0.9, 0.95, 1]
